@@ -1,0 +1,88 @@
+$date
+	Mon Apr 13 14:48:34 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module arbiter_tb $end
+$var wire 1 ! gnt1 $end
+$var wire 1 " gnt0 $end
+$var reg 1 # clock $end
+$var reg 1 $ req0 $end
+$var reg 1 % req1 $end
+$var reg 1 & reset $end
+$scope module U0 $end
+$var wire 1 # clock $end
+$var wire 1 $ req_0 $end
+$var wire 1 % req_1 $end
+$var wire 1 & reset $end
+$var reg 1 " gnt_0 $end
+$var reg 1 ! gnt_1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0&
+0%
+0$
+0#
+x"
+x!
+$end
+#5
+0!
+0"
+1#
+1&
+#10
+0#
+#15
+1#
+#20
+0#
+0&
+#25
+1#
+#30
+0#
+1$
+#35
+1"
+1#
+#40
+0#
+0$
+#45
+1#
+#50
+0#
+1%
+#55
+1!
+0"
+1#
+#60
+0#
+0%
+#65
+1#
+#70
+0#
+1$
+1%
+#75
+0!
+1"
+1#
+#80
+0#
+0$
+0%
+#85
+1#
+#90
+0#

@@ -35,3 +35,9 @@ Playground : www.edaplayground.com (sign-up needed)
 Need to install icarus verilog to compile Verilog language and GTKWave to see the output signals.
 
 Play with it, we can create 'and', 'or' etc... logical gates to begin with.
+
+A simple and interesant tutorial could be found at : http://www.asic-world.com/verilog/veritut.html
+
+TODO : 
+
+[] implements a simple counter in Verilog

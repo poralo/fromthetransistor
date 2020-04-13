@@ -9,8 +9,7 @@ wire y;
 
 or2 ior2(a, b, y);
 
-initial
-begin
+initial begin
     $monitor("a=%b, b=%b, y=%b", a, b, y);
     $dumpfile("or2.vcd");
     $dumpvars(0, or2_tb);
